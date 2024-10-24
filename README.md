@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 Hi, I'm Mulaudzi Tshilidzi Luyanda, an IT student from South Africa, currently pursuing a BSc in Information Technology. I’m passionate about technology, cybersecurity, and building innovative solutions. My goal is to develop expertise in areas like software development, security analysis, and emerging tech.<br><br>🔭 I’m currently working on a projects that will enhance my skills in the programming world.<br>🌱 I’m learning about Web development, Data Science, and Programming.<br>💡 I’m also interested in developing software tools and contributing to open-source projects.<br>🎮 In my free time, I enjoy gaming, watching tech-related movies, and building personal projects.<br>📫 You can reach me via my GitHub Projects or LinkedIn.<br>🔧 Technologies & Tools<br>Programming Languages: Python, JavaScript, HTML, CSS<br>Tools & Frameworks: Git, React, Node.js<br>Platforms: Linux (MATE), Windows<br>🚀 Current Projects<br>my_game: A game project I’m developing as I continue learning game development.<br>Portfolio Site: Building my personal portfolio to showcase my skills and projects.
 
 
