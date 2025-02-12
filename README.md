@@ -1,6 +1,12 @@
 # 💫 About Me:
 I'm Mulaudzi Tshilidzi Luyanda, an IT student, programmer, and cybersecurity enthusiast. I'm currently pursuing a BSc in Information Technology at Richfield Graduate Institute of Technology (2nd year). Passionate about technology, I enjoy exploring cybersecurity, software development, and emerging technologies.
 
+📌 Interests
+Cybersecurity & Ethical Hacking 🔒
+Software Engineering & Emerging Technologies 🚀
+Gaming & Game Development 🎮
+Videography & Photography 📷
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kingtl.mulaudzi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/luyanda_mulaudzi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tshilidzi-luyanda-mulaudzi-952708311/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@luyanda_mulaudzi?is_from_webapp=1&sender_device=pc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luyandam2006@gmail.com) 
