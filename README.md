@@ -9,7 +9,8 @@ Videography & Photography 📷<br>
 
 ## 📜 Certifications  
 - Introduction to Cybersecurity – Cisco Networking Academy (Jan 2025)  
-- Digital Awareness – Cisco Networking Academy (Jan 2025) 
+- Digital Awareness – Cisco Networking Academy (Jan 2025)
+- Networking Basics - Cisco Networking Academy (Feb 2025) 
 
 
 ## 🌐 Socials:
