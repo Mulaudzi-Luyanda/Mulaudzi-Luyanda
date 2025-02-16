@@ -2,7 +2,7 @@
 I'm Mulaudzi Tshilidzi Luyanda, an IT student, programmer, and cybersecurity enthusiast. I'm currently pursuing a BSc in Information Technology at Richfield Graduate Institute of Technology (2nd year). Passionate about technology, I enjoy exploring cybersecurity, software development, and emerging technologies.
 
 ## 📌 Interests
-Cybersecurity & Ethical Hacking 🔒<br>
+Cybersecurity & Software Development 🔒<br>
 Software Engineering & Emerging Technologies 🚀<br>
 Gaming & Game Development 🎮<br>
 Videography & Photography 📷<br>
